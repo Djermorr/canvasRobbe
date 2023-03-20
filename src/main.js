@@ -3,6 +3,7 @@ const toolbar = document.getElementById('toolbar');
 const opacitySlider = document.getElementById("opacity-slider");
 const ctx = canvas.getContext('2d');
 
+
 const canvasOffsetX = canvas.offsetLeft;
 const canvasOffsetY = canvas.offsetTop;
 
